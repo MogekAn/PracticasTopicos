@@ -1,0 +1,13 @@
+/* index.css */
+
+/* Importa las directivas base de Tailwind */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Aquí puedes agregar tus propios estilos personalizados si lo deseas */
+
+/* Un ejemplo de cómo puedes personalizar los estilos */
+body {
+  font-family: 'Arial', sans-serif;
+}
